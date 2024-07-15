@@ -1,0 +1,1 @@
+Essa aplicação é um relógio Pomodoro, desenvolvida para oferecer pausas curtas para descanso, focando em prevenir o esgotamento e o estresse do usuário.
